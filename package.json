@@ -1,6 +1,6 @@
 {
     "name": "allow-cors",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "Allow cross-origin access on your server responses.",
     "main": "index.js",
     "repository": {
