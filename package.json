@@ -17,5 +17,6 @@
     "bugs": {
         "url": "https://github.com/GMartigny/allow-cors/issues"
     },
-    "homepage": "https://github.com/GMartigny/allow-cors#readme"
+    "homepage": "https://github.com/GMartigny/allow-cors#readme",
+    "funding": "https://github.com/GMartigny/allow-cors?sponsor=1"
 }
