@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Allow cross-origin access on your server responses.",
     "main": "index.js",
+    "type": "module",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/GMartigny/allow-cors.git"

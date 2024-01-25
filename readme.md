@@ -11,16 +11,7 @@ Allow cross-origin access on your server responses
 ## Usage
 
 ```js
-const allow = require("allow-cors");
-
-http.createServer((request, response) => {
-    allow(response);
-    response.end();
-});
-```
-Or
-```js
-import allow from "allow-cors/esm";
+import allow from "allow-cors";
 
 http.createServer((request, response) => {
     allow(response);
